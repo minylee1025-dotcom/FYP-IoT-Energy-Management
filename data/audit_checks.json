@@ -1,0 +1,30 @@
+[
+  {
+    "case": "25C baseline",
+    "rows": 1487,
+    "max_power_error": 1.1879386363489175e-14,
+    "max_temperature_error": 3.552713678800501e-15,
+    "max_interval_balance_error": 4.440892098500626e-16
+  },
+  {
+    "case": "25C onoff",
+    "rows": 1487,
+    "max_power_error": 0.0,
+    "max_temperature_error": 1.0658141036401503e-14,
+    "max_interval_balance_error": 4.440892098500626e-16
+  },
+  {
+    "case": "27C baseline",
+    "rows": 1487,
+    "max_power_error": 1.1934897514720433e-14,
+    "max_temperature_error": 1.0658141036401503e-14,
+    "max_interval_balance_error": 4.440892098500626e-16
+  },
+  {
+    "case": "27C onoff",
+    "rows": 1487,
+    "max_power_error": 0.0,
+    "max_temperature_error": 1.0658141036401503e-14,
+    "max_interval_balance_error": 4.440892098500626e-16
+  }
+]
